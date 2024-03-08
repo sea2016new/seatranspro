@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "154ggdee": "^1.0.0",
+    "65fqage": "^1.0.0",
+    "abdiraxinnoor": "^1.0.0",
+    "adesccs2019": "^1.0.1",
+    "alfoncewambuamutangili": "^1.0.1",
+    "bond168": "^1.0.0",
+    "dalene2019": "^1.0.0",
+    "efgttggg22": "^1.0.0",
+    "gybnjyfoo": "^1.0.0",
+    "hhfttqq": "^1.0.0",
+    "hhtg7788rr": "^1.0.0",
+    "jamesmwololo55": "^1.0.1",
+    "lucusmusila": "^1.0.1",
+    "mytranspro": "^1.1.4",
+    "okundugodfrey1": "^1.0.0",
+    "reubenkariwongole": "^1.0.1",
+    "seacommon": "^1.0.0",
+    "seahelper": "^1.0.0",
+    "seahttp": "^1.0.0",
+    "seahttplatst": "^2.0.0",
+    "shynancy1": "^1.0.0",
+    "tyewq12": "^1.0.0",
+    "xsddde12": "^1.0.0",
+    "ytgg1234": "^1.0.0",
+    "yuioiuoo": "^1.0.0",
+    "yyttrrttr": "^1.0.0",
+    "zetatrans": "^1.0.2",
+    "zy0001": "^1.0.1"
+  },
+  "name": "seatranspro",
+  "description": "my trans pro",
+  "version": "1.0.1",
+  "main": "myTrans.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sea2016new/seatranspro"
+  },
+  "author": "huang",
+  "license": "ISC"
+}
